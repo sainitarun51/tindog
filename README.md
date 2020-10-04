@@ -1,2 +1,1 @@
-# tindog
-Tinder for Dogs, website made from mostly bootstrap
+TinDog Starting Files
